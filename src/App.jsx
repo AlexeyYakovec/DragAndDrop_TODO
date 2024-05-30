@@ -1,4 +1,3 @@
-import "./App.css";
 import { NotionKaban } from "./components/NotionKaban/NotionKaban";
 
 function App() {
